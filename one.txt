@@ -1,2 +1,3 @@
 My name is Tanjidul Islam.
 I am a student.
+Currently I am learning JAVASCRIPT.
